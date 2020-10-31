@@ -1,0 +1,17 @@
+.card{
+    position: absolute;
+    top: 100px;
+    left:500px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-image: url("https://c1.wallpaperflare.com/preview/578/881/272/watercolor-peach-background-pink.jpg");
+    background-repeat: no-repeat;
+}
+.table {
+    position: absolute;
+    top: 500px;
+    left:70px;
+    
+
+    
+}
