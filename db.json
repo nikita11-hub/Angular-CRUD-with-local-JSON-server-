@@ -1,0 +1,28 @@
+{
+  "bookname": [
+    {
+      "bookname": "Think like a monk",
+      "author": "jay shetty",
+      "price": "$325",
+      "id": 2
+    },
+    {
+      "bookname": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": "$192",
+      "id": 3
+    },
+    {
+      "bookname": "The secret of life wellness",
+      "author": "Inna Segal",
+      "price": "$298",
+      "id": 4
+    },
+    {
+      "bookname": "Attitude is everything",
+      "author": "Jeff Keller",
+      "price": "$230",
+      "id": 5
+    }
+  ]
+}
